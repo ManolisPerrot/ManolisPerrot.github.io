@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ManolisPerrot.github.io/al-folio/sitemap.xml
+Sitemap: https://ManolisPerrot.github.io/sitemap.xml
