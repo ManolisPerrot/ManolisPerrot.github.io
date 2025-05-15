@@ -24,13 +24,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently looking for a position in applied mathematics related to fluids or hydrological modeling.
+I am currently looking for a research or engineering position in applied mathematics related to fluids or hydrological modeling.
 
-Physical Expertise: Ocean and Atmosphere Turbulence, Subgrid Parameterizations, Convection, Energy conservation
+Among various topics, here are my interests and areas of expertise:
 
-Mathematical Expertise: Geometric Fluid Dynamics, Deterministic and Stochastic Modeling, Uncertainty Quantification
+**Physics and Modeling**: Ocean and Atmosphere Turbulence, Subgrid Parameterizations, Convection, Physics-Dynamics Coupling
 
-# Education
+**Maths**: Geometric Fluid Dynamics, Deterministic and Stochastic Modeling, Uncertainty Quantification
+
+You can find details more details on my CV. 
+
+
+
+
+
+
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->

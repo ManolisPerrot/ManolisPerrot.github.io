@@ -1,0 +1,4 @@
+- [ ] déposer thèse sous Hal
+- [ ] mettre cv avec thèse sous hal
+- [ ] mettre juste une page de pres, une page de cv (avec cv en pdf sur le site, ne pas s'embetter à avoir 3 cv, 2 ça suffit !), et une page avec les publis. Eventuellement teaching ?
+- [ ] eventuellement une page qui explique les projets de recherche ?
