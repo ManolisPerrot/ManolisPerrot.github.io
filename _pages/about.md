@@ -32,7 +32,7 @@ Among various topics, here are my interests and areas of expertise:
 
 **Maths**: Geometric Fluid Dynamics, Deterministic and Stochastic Modeling, Uncertainty Quantification
 
-You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV%20-%20EDF-v6.pdf). 
+You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV_corporate.pdf). 
 
 
 
