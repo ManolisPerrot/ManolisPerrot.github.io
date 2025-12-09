@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently looking for a research or engineering position in applied mathematics related to fluids or hydrological modeling.
+I am currently a CNRS postdoctoral reseacher in the MEOM group of Institut des Géosciences de l'Environnement, Grenoble, France. With Bruno Deremble and Hugo Jacquet, we work on oceanic turbulence in the presence of surface waves. 
 
 Among various topics, here are my interests and areas of expertise:
 
@@ -32,7 +32,7 @@ Among various topics, here are my interests and areas of expertise:
 
 **Maths**: Geometric Fluid Dynamics, Deterministic and Stochastic Modeling, Uncertainty Quantification
 
-You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV_corporate.pdf). 
+You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV_corporate.pdf) (last update: April 2025). 
 
 
 
