@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a CNRS postdoctoral reseacher in the MEOM group of Institut des Géosciences de l'Environnement, Grenoble, France. With Bruno Deremble and Hugo Jacquet, we work on oceanic turbulence in the presence of surface waves. 
+I am currently a **CNRS postdoctoral reseacher** in the OPERA group (formerly [MEOM](https://meom-group.github.io)) of [Institut des Géosciences de l'Environnement](https://www.ige-grenoble.fr/?lang=en), Grenoble, France. With Bruno Deremble and Hugo Jacquet, we work on **oceanic turbulence** in the presence of **surface waves**. 
 
 Among various topics, here are my interests and areas of expertise:
 
