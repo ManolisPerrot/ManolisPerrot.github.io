@@ -11,8 +11,6 @@ nav_order: 5
         height="1000px">
 </iframe>
 
-
-
 <!-- --- -->
 <!-- layout: cv -->
 <!-- permalink: /cv/ -->
@@ -24,5 +22,3 @@ nav_order: 5
 <!-- toc: -->
   <!-- sidebar: left -->
 <!-- --- -->
-
-

@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a **CNRS postdoctoral reseacher** in the OPERA group (formerly [MEOM](https://meom-group.github.io)) of [Institut des Géosciences de l'Environnement](https://www.ige-grenoble.fr/?lang=en), Grenoble, France. With Bruno Deremble and Hugo Jacquet, we work on **oceanic turbulence** in the presence of **surface waves**. 
+I am currently a **CNRS postdoctoral reseacher** in the OPERA group (formerly [MEOM](https://meom-group.github.io)) of [Institut des Géosciences de l'Environnement](https://www.ige-grenoble.fr/?lang=en), Grenoble, France. With Bruno Deremble and Hugo Jacquet, we work on **oceanic turbulence** in the presence of **surface waves**.
 
 Among various topics, here are my interests and areas of expertise:
 
@@ -32,13 +32,7 @@ Among various topics, here are my interests and areas of expertise:
 
 **Maths**: Geometric Fluid Dynamics, Deterministic and Stochastic Modeling, Uncertainty Quantification
 
-You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV_corporate.pdf) (last update: April 2025). 
-
-
-
-
-
-
+You can find more details on my [academic CV](../assets/pdf/cv_en_Copie.pdf) or on my [corporate CV](../assets/pdf/CV_corporate.pdf) (last update: April 2025).
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
