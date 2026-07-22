@@ -4,7 +4,7 @@
 - les liens/icones en bas de la page d'accueil --> data/socials
 - ajouter/masker des pages : \_config.yml --> "# Includes & excludes" section, comment excluded pages to unmask
 - infos en plus sur les publis : rajouter des champs dans le bibtex (cf https://github.com/alshedivat/al-folio/blob/main/CUSTOMIZE.md#adding-a-new-publication)
-- to deploy on the net : 
+- to deploy on the net :
   - fix formatting issues `npx prettier . --write`
   - commit and sync, then wait severa minutes (progress displayed on the github page)
 
